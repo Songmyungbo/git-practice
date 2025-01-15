@@ -6,5 +6,6 @@ function addNum(num1, num2){
 }
 
 // 코드 러너 실행 ctrl + alt + n
+console.log("기능 완료");
 
 addNum(num1,num2);
